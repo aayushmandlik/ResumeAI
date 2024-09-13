@@ -50,5 +50,5 @@ If you want to run ResumeAI locally, follow these steps:
 
 ## Usage
 
-To use ResumeAI, simply visit [ResumeAI.vercel.app](https://ResumeAI.vercel.app) and start filling out your details. Once complete, you can export your resume in PDF format.
+To use ResumeAI, simply visit [ResumeAI.vercel.app](https://resume-ai-omega.vercel.app) and start filling out your details. Once complete, you can export your resume in PDF format.
 
