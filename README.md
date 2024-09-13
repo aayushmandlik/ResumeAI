@@ -27,3 +27,28 @@
 
 <img src="./public/screenshots/2.jpg" width="75%" />
 <img src="./public/screenshots/1.jpg" width="75%" />
+
+## Installation
+
+If you want to run ResumeAI locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+     git clone https://github.com/devxprite/ResumeAI.git
+    ```
+
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the development server:
+    ```bash
+    npm run dev
+    ```
+4. Open your browser and visit `http://localhost:3000`
+
+## Usage
+
+To use ResumeAI, simply visit [ResumeAI.vercel.app](https://ResumeAI.vercel.app) and start filling out your details. Once complete, you can export your resume in PDF format.
+
